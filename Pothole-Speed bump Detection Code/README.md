@@ -52,22 +52,3 @@ Dataset follows YOLO-style text label files: each label file contains lines with
 ## Results & Logs
 
 Training results and TensorBoard event files are located in `content/YOLOv11-Training/pothole-speedbump-detect`.
-
-## Contributing
-
-If you'd like to improve this project, please:
-
-- Add more labeled images to the dataset (see dataset structure).
-- Provide model evaluation scripts or metrics output.
-- Open an issue or PR with suggested changes.
-
-## License
-
-Specify the project license here (e.g., MIT). If you want, I can add an appropriate license file.
-
----
-
-If you want, I can also:
-- add a `requirements.txt` with exact dependencies,
-- expand the Installation and Training sections with concrete commands,
-- or add CI badges and a short demo GIF.
