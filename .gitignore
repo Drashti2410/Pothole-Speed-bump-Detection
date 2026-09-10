@@ -220,3 +220,6 @@ __marimo__/
 *.zip
 *.zip
 *.mp4
+
+# local machine cache
+*.DS_Store
