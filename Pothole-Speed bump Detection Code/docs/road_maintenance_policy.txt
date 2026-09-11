@@ -1,0 +1,5 @@
+Road Maintenance Severity Policy:
+- 1-2 potholes detected with confidence > 0.7: LOW priority, schedule inspection within 30 days.
+- 3-5 potholes detected: MEDIUM priority, schedule repair within 14 days.
+- 6+ potholes or any speed bump misclassified as damage: HIGH priority, dispatch crew within 48 hours.
+- Speed bumps detected are informational only, not repair triggers.
